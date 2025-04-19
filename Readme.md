@@ -21,9 +21,9 @@ Le but du jeu est de défendre l'île le plus longtemps possible en empêchant l
 
 ## Participants
 
-- Diego Galfré (P2205540)
-- Cheikh Ali Abdoul-Anziz (P2101250)
-- Riadh Chinoun (P2203462)
+- Diego Galfré
+- Cheikh Ali Abdoul-Anziz
+- Riadh Chinoun
 
 
 ## Arborescence du Projet
